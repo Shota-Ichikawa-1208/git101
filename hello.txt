@@ -1,3 +1,4 @@
 hello.text作成
 
 good morning
+good afternoon
